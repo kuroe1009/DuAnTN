@@ -1,0 +1,30 @@
+## Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+
+## Ignore build output
+bin/
+obj/
+
+## Ignore test results
+TestResults/
+
+## Ignore packages (if using packages.config)
+packages/
+
+## Ignore logs and others
+*.log
+
+## Ignore web frontend dependencies
+node_modules/
+wwwroot/lib/
+
+## Ignore JetBrains Rider files
+.idea/
+
+## Optional
+*.db
+*.sqlite
+*.bak
+*.tmp

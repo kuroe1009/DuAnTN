@@ -131,6 +131,26 @@ namespace WebModels.Models
                     property.SetColumnType("decimal(18,2)");
                 }
             }
+
+        }
+        // Ví dụ trong DbContext
+        public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
+        {
+            var entries = ChangeTracker
+                .Entries()
+                .Where(e => e.Entity is SanPham && // Hoặc một base entity nếu có
+                            (e.State == EntityState.Added || e.State == EntityState.Modified));
+
+            foreach (var entityEntry in entries)
+            {
+                ((SanPham)entityEntry.Entity).NgaySua = DateTime.UtcNow;
+
+                if (entityEntry.State == EntityState.Added)
+                {
+                    ((SanPham)entityEntry.Entity).NgayTao = DateTime.UtcNow;
+                }
+            }
+            return base.SaveChangesAsync(cancellationToken);
         }
     }
 }

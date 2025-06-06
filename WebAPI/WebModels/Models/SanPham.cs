@@ -20,7 +20,7 @@ namespace WebModels.Models
 
         public bool? GioiTinh { get; set; }  // Ví dụ: true=Nam, false=Nữ, null=unisex
 
-        public int? TrongLuong { get; set; }
+        public double? TrongLuong { get; set; }
 
         [MaxLength(2000)]
         public string? MoTa { get; set; }

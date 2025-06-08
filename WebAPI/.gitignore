@@ -28,3 +28,4 @@ wwwroot/lib/
 *.sqlite
 *.bak
 *.tmp
+appsettings.Development.json

@@ -19,7 +19,6 @@ D:\DuAn\DuAnTN\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssembly
 D:\DuAn\DuAnTN\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 D:\DuAn\DuAnTN\WebAPI\WebAPI\obj\Debug\net8.0\scopedcss\bundle\WebAPI.styles.css
 D:\DuAn\DuAnTN\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets.build.json
-D:\DuAn\DuAnTN\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\DuAn\DuAnTN\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets.development.json
 D:\DuAn\DuAnTN\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 D:\DuAn\DuAnTN\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
@@ -29,3 +28,10 @@ D:\DuAn\DuAnTN\WebAPI\WebAPI\obj\Debug\net8.0\refint\WebAPI.dll
 D:\DuAn\DuAnTN\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.pdb
 D:\DuAn\DuAnTN\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 D:\DuAn\DuAnTN\WebAPI\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+D:\DuAN\DuAnTN\WebAPI\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json
+D:\DuAN\DuAnTN\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DuAN\DuAnTN\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\DuAN\DuAnTN\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAPI.props
+D:\DuAN\DuAnTN\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+D:\DuAN\DuAnTN\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+D:\DuAN\DuAnTN\WebAPI\WebAPI\obj\Debug\net8.0\staticwebassets.pack.json

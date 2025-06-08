@@ -18,7 +18,6 @@ D:\DuAn\DuAnTN\WebAPI\WebView\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cs
 D:\DuAn\DuAnTN\WebAPI\WebView\obj\Debug\net8.0\scopedcss\bundle\WebView.styles.css
 D:\DuAn\DuAnTN\WebAPI\WebView\obj\Debug\net8.0\scopedcss\projectbundle\WebView.bundle.scp.css
 D:\DuAn\DuAnTN\WebAPI\WebView\obj\Debug\net8.0\staticwebassets.build.json
-D:\DuAn\DuAnTN\WebAPI\WebView\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\DuAn\DuAnTN\WebAPI\WebView\obj\Debug\net8.0\staticwebassets.development.json
 D:\DuAn\DuAnTN\WebAPI\WebView\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 D:\DuAn\DuAnTN\WebAPI\WebView\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
@@ -27,3 +26,10 @@ D:\DuAn\DuAnTN\WebAPI\WebView\obj\Debug\net8.0\refint\WebView.dll
 D:\DuAn\DuAnTN\WebAPI\WebView\obj\Debug\net8.0\WebView.pdb
 D:\DuAn\DuAnTN\WebAPI\WebView\obj\Debug\net8.0\WebView.genruntimeconfig.cache
 D:\DuAn\DuAnTN\WebAPI\WebView\obj\Debug\net8.0\ref\WebView.dll
+D:\DuAN\DuAnTN\WebAPI\WebView\obj\Debug\net8.0\WebView.sourcelink.json
+D:\DuAN\DuAnTN\WebAPI\WebView\obj\Debug\net8.0\staticwebassets\msbuild.WebView.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DuAN\DuAnTN\WebAPI\WebView\obj\Debug\net8.0\staticwebassets\msbuild.WebView.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\DuAN\DuAnTN\WebAPI\WebView\obj\Debug\net8.0\staticwebassets\msbuild.build.WebView.props
+D:\DuAN\DuAnTN\WebAPI\WebView\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebView.props
+D:\DuAN\DuAnTN\WebAPI\WebView\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebView.props
+D:\DuAN\DuAnTN\WebAPI\WebView\obj\Debug\net8.0\staticwebassets.pack.json

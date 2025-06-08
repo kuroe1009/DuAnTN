@@ -29,3 +29,8 @@ wwwroot/lib/
 *.bak
 *.tmp
 appsettings.Development.json
+bin/
+obj/
+*.user
+*.lock.json
+project.assets.json
